@@ -1,1 +1,0 @@
-serverE = open('serverE.py')
