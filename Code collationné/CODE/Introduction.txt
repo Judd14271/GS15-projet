@@ -1,0 +1,2 @@
+1：Ordre d'ouverture du serveur : E=>S => A=>client
+2: Les commentaires sur le code à l'intérieur sont super détaillés !

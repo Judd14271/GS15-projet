@@ -1,0 +1,10 @@
+candidates.csv: Tenir une liste de candidats
+checkVote.csv: Stockage des bulletins de vote cryptés
+cleElgama.csv: les cles de Elgama pour la décryptage de c2 (Ces clés peuvent être distribuées artificiellement à des administrateurs individuels.)
+resultat.csv: le résultat de vote calculé
+serverE.csv: la liste de votant qui participe dans la vote (ne peut pas voter si l'inscription est apres la lancement de vote)
+users.csv: la liste des votants inscrit (les pcn = g^cn utilisés pour la ZKP de cn est d'ici)
+votesRestes.csv: généré par serverur S apre la dépouillment est lancé
+votesComptes.csv: généré par serverur S apre la dépouillment est lancé, c2 est decrypté ici
+
+

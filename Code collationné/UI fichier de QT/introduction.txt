@@ -1,0 +1,2 @@
+En utilisant une fonction, les fichiers.ui peuvent etre transeférés a les fichier.py
+Ces styles d'interface graphique sont stockés dans ces fichiers
